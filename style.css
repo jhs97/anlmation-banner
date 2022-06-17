@@ -52,7 +52,7 @@ a.banner {
     right: 70px;
     /* animation-delay: 10s; */
     transform: scale(1.5);
-    transition: 5s;
+    transition: 10s;
 }
 .btn {
     position: absolute;
