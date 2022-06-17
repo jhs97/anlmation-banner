@@ -1,6 +1,6 @@
 # anlmation-banner
 애니메이션 배너 제작하기
-배너 주소: https://jhs97.github.io/anlmation-banner/
+배너 주소:
 
 ![preview](https://user-images.githubusercontent.com/105402450/174235516-691ce114-6033-4aa6-a82c-33956465f242.JPG)
 ## among us
