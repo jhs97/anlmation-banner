@@ -35,6 +35,7 @@ a.banner {
     left: 50px;
     top: 85px;
     animation-name: logo;
+    animation-delay: 3s;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -68,10 +69,11 @@ a.banner {
     left: 224px;
     top: 219px;
     width: 140px;
-    height: 65px;
+    height: 50px;
     background-color: #fff;
-    padding: 10px;
-    font-size: 1.5em;
+    padding: 0 10px;
+    font-size: 20px;
+    font-weight: bold;
     border-radius: 30vh;
 
 }
