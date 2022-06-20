@@ -35,8 +35,8 @@ a.banner {
     left: 50px;
     top: 85px;
     animation-name: logo;
-    animation-delay: 3s;
-    animation-duration: 5s;
+    animation-delay: 5s;
+    animation-duration: 10s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
     animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
@@ -52,6 +52,7 @@ a.banner {
     top: 65px;
     right: 70px;
     animation-name: mark;
+    animation-delay: 5s;
     animation-duration: 10s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
